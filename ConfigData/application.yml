@@ -29,3 +29,8 @@ words: lovely,abominable,ferocious,timid,lively
 spring:
   profiles: noun
 words: snow-man,beast,dragon,gollum,ghost
+
+---
+spring:
+  profiles: cold-noun
+words: big-foot,chutulu,kraken,pythanoboa
