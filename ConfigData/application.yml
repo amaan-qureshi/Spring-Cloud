@@ -8,12 +8,12 @@ eureka:
 ---
 spring:
   profiles: subject
-words: I,You,He,She,It
+words: Tom,Dick,Peter,Drew
   
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: punched,kicked,kissed,threw
 
 ---
 spring:
@@ -23,9 +23,9 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: lovely,abominable,ferocious,timid,lively
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: snow-man,beast,dragon,gollum,ghost
